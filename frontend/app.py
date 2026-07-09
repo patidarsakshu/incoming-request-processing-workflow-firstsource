@@ -220,10 +220,9 @@ st.markdown("""
     <h2>Incoming Request Processing Workflow</h2>
     <p>AI-powered request classification, branch-specific remediation, audit logging and workflow automation.<br>Firstsource Agentic AI Engineer POC</p>
     <div class="status-pills">
-        <span>AI Online</span>
-        <span>Groq Llama 3.3 70B</span>
-        <span>SQLite Connected</span>
-        <span>Ready</span>
+        <span>🟢 AI Connected</span>
+        <span>⚡ Groq Llama 3.3</span>
+        <span>🗄 SQLite</span>
     </div>
 </div>
 """, unsafe_allow_html=True)
