@@ -2,9 +2,8 @@
 
 An AI-powered prototype that receives, classifies, and executes a branch-specific remediation workflow for incoming customer requests — built as a proof-of-concept for an operations team handling complaints, enquiries, service requests, and escalations.
 
-**Live demo:** _[add your Streamlit Cloud link here after deploying]_
-**Repo:** _[add your GitHub link here]_
-
+**Live demo:** https://incoming-request-processing-workflow-firstsource-8quue7fjxact5.streamlit.app/
+**Repo:** https://github.com/patidarsakshu/incoming-request-processing-workflow-firstsource
 ---
 
 ## 1. Problem Understanding
