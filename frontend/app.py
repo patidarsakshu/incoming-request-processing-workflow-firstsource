@@ -394,9 +394,9 @@ with tab3:
         def highlight_urgency(val):
             return URGENCY_COLORS.get(val, "")
 
-      styled_df = (
-    df.style
-    .map(highlight_urgency, subset=["urgency"])
+        styled_df = (
+            df.style
+            .map(highlight_urgency, subset=["urgency"])
             .set_table_styles([
                 {
                     "selector": "th",
